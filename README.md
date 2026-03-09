@@ -20,7 +20,7 @@ O projeto será dividido em 2 etapas:
 
 ---
 
-## ** 2. Equipamentos usados nesse laboratpório:**
+## **2. Equipamentos usados nesse laboratpório:**
 
 - 3 Notebooks
 - 1 Roteador Wireless com 1 porta WAN e 4 portas LAN
