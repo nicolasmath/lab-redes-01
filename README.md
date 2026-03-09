@@ -26,3 +26,15 @@ O projeto será dividido em 2 etapas:
 - 1 Roteador Wireless com 1 porta WAN e 4 portas LAN
 - 1 Impressora de rede
 - Cabos de rede
+
+---
+
+## **3. Topologia da Rede:**
+
+Diagrama lógico da rede usada neste laboratório. 
+```mermaid
+graph TD
+
+WAN[Internet / WAN do provedor]
+
+```
