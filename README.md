@@ -37,4 +37,18 @@ graph TD
 
 WAN[Internet / WAN do provedor]
 
+Router[Roteador Wireless<br>1 Porta WAN<br>4 Portas LAN]
+
+PC1[Notebook 1]
+PC2[Notebook 2]
+PC3[Notebook 3]
+
+Printer[Impressora de Rede]
+
+WAN --> |Porta WAN| Router 
+
+Router --> |LAN 4| PC1
+Router --> |LAN 4| PC2
+Router --> |LAN 4| PC3
+Router --> |LAN 4| Printer
 ```
