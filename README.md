@@ -53,6 +53,5 @@ Router --> |LAN 4| PC3
 Router --> |LAN 4| Printer
 ```
 Imagem da topologia usada neste laboratório:
-![topologia](<img width="693" height="486" alt="image" src="https://github.com/user-attachments/assets/d3e2f1dc-6470-4a09-840f-e510b732a195" />
-)
+![topologia](Topologia.png)
 
