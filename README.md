@@ -11,7 +11,7 @@ Data: 09/03/2026
 ---
 
 ## **1. Objetivo:**
-Implementar uma rede local simples conectando 3 notbooks a um roteador wireless com switch e uma impressora de rede.
+Implementar uma rede local simples conectando 3 notebooks a um roteador wireless com switch e uma impressora de rede.
 
 O projeto será dividido em 2 etapas:
 
